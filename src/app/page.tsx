@@ -27,7 +27,7 @@ const Home = () => {
         </Button>
         <Button variant="outline" asChild>
           <a href="https://github.com/Skolaczk/next-starter" target="_blank">
-            <Icons.github className="mr-2 size-4" /> Github
+            <Icons.github className="mr-2 size-4" /> Github Repository
           </a>
         </Button>
       </div>
